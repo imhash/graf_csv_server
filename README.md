@@ -12,6 +12,7 @@ Step 2: Download graf_csv_server
 git clone https://github.com/imhash/graf_csv_server.git
 
 Step 3: Start CSVServer
+
 cd graf_csv_server
 
 node CSVServer.js
