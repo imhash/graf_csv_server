@@ -37,7 +37,7 @@
     "fast-csv": "^3.4.0",
     "fastify": "^2.10.0",
     "fs": "0.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pino-pretty": "^3.2.2",
     "read-ini-file": "^3.0.0"
   }
